@@ -47,8 +47,8 @@ Whether it’s an impersonator, fake profile, harassment account, or stolen cont
 
 | Plan | Price | Access |
 |------|-------|--------|
-| 🎯 One-Time Takedown | $199 | One batch: 150K–350K reports |
-| 🔓 Full License | $999 | Unlimited accounts & attempts |
+| 🎯 One-Time Takedown | $*** | One batch: 150K–350K reports |
+| 🔓 Full License | $**** | Unlimited accounts & attempts |
 
 > We **do not** offer trials or demos. This is a paid-only tool.  
 ---
